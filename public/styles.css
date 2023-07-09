@@ -84,3 +84,7 @@ form button {
   color: white;
   font-weight: bold;
 }
+input:focus,
+textarea:focus {
+  outline: none;
+}
